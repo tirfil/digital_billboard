@@ -1,0 +1,71 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Oct 21 09:18:01 2019
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_spiaccess.ghw"
+[dumpfile_mtime] "Mon Oct 21 09:11:57 2019"
+[dumpfile_size] 23454
+[savefile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_spiaccess.gtkw"
+[timestart] 8184400000
+[size] 1920 1018
+[pos] -109 -109
+*-27.423635 9147500000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_spiaccess.
+[treeopen] top.tb_spiaccess.i_spiaccess_0.
+[treeopen] top.tb_spiaccess.i_spiaccess_0.i_avalon_access_0.
+[treeopen] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.
+[sst_width] 197
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 514
+@28
+top.tb_spiaccess.nrst
+top.tb_spiaccess.mclk
+top.tb_spiaccess.sck
+top.tb_spiaccess.miso
+top.tb_spiaccess.mosi
+top.tb_spiaccess.ss
+top.tb_spiaccess.av_waitrequest
+@22
+#{top.tb_spiaccess.av_address[22:0]} top.tb_spiaccess.av_address[22] top.tb_spiaccess.av_address[21] top.tb_spiaccess.av_address[20] top.tb_spiaccess.av_address[19] top.tb_spiaccess.av_address[18] top.tb_spiaccess.av_address[17] top.tb_spiaccess.av_address[16] top.tb_spiaccess.av_address[15] top.tb_spiaccess.av_address[14] top.tb_spiaccess.av_address[13] top.tb_spiaccess.av_address[12] top.tb_spiaccess.av_address[11] top.tb_spiaccess.av_address[10] top.tb_spiaccess.av_address[9] top.tb_spiaccess.av_address[8] top.tb_spiaccess.av_address[7] top.tb_spiaccess.av_address[6] top.tb_spiaccess.av_address[5] top.tb_spiaccess.av_address[4] top.tb_spiaccess.av_address[3] top.tb_spiaccess.av_address[2] top.tb_spiaccess.av_address[1] top.tb_spiaccess.av_address[0]
+@200
+-
+@22
+#{top.tb_spiaccess.av_writedata[15:0]} top.tb_spiaccess.av_writedata[15] top.tb_spiaccess.av_writedata[14] top.tb_spiaccess.av_writedata[13] top.tb_spiaccess.av_writedata[12] top.tb_spiaccess.av_writedata[11] top.tb_spiaccess.av_writedata[10] top.tb_spiaccess.av_writedata[9] top.tb_spiaccess.av_writedata[8] top.tb_spiaccess.av_writedata[7] top.tb_spiaccess.av_writedata[6] top.tb_spiaccess.av_writedata[5] top.tb_spiaccess.av_writedata[4] top.tb_spiaccess.av_writedata[3] top.tb_spiaccess.av_writedata[2] top.tb_spiaccess.av_writedata[1] top.tb_spiaccess.av_writedata[0]
+@28
+top.tb_spiaccess.i_spiaccess_0.av_write
+@200
+-
+@22
+#{top.tb_spiaccess.av_readdata[15:0]} top.tb_spiaccess.av_readdata[15] top.tb_spiaccess.av_readdata[14] top.tb_spiaccess.av_readdata[13] top.tb_spiaccess.av_readdata[12] top.tb_spiaccess.av_readdata[11] top.tb_spiaccess.av_readdata[10] top.tb_spiaccess.av_readdata[9] top.tb_spiaccess.av_readdata[8] top.tb_spiaccess.av_readdata[7] top.tb_spiaccess.av_readdata[6] top.tb_spiaccess.av_readdata[5] top.tb_spiaccess.av_readdata[4] top.tb_spiaccess.av_readdata[3] top.tb_spiaccess.av_readdata[2] top.tb_spiaccess.av_readdata[1] top.tb_spiaccess.av_readdata[0]
+@28
+top.tb_spiaccess.i_spiaccess_0.av_read
+top.tb_spiaccess.av_readdatavalid
+@200
+-
+-
+@28
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_write
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_read
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.address_write
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_done
+@29
+[color] 1
+top.tb_spiaccess.i_spiaccess_0.i_avalon_access_0.address_incr
+@200
+-
+@28
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.val_pin_resy
+top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.val_nib_resy
+@22
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[7:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.control_reg[0]
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[7:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.status_reg[0]
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[15:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[15] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[14] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[13] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[12] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[11] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[10] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[9] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[8] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_in[0]
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[15:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[15] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[14] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[13] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[12] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[11] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[10] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[9] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[8] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.data_out[0]
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[7:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pout[0]
+#{top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[7:0]} top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[7] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[6] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[5] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[4] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[3] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[2] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[1] top.tb_spiaccess.i_spiaccess_0.i_spiregister_0.pin[0]
+@28
+top.tb_spiaccess.i_spiaccess_0.i_avalon_access_0.state
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Oct 07 14:30:11 2019
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_rgbout.ghw"
+[dumpfile_mtime] "Mon Oct 07 13:13:30 2019"
+[dumpfile_size] 35181683
+[savefile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_rgbout.gtkw"
+[timestart] 8974502000000
+[size] 1274 816
+[pos] -1 -1
+*-27.905977 8974964000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_rgbout.
+[sst_width] 197
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 366
+@28
+top.tb_rgbout.clear
+top.tb_rgbout.nrst
+top.tb_rgbout.mclk
+top.tb_rgbout.vs
+top.tb_rgbout.hs
+top.tb_rgbout.fifo_empty
+top.tb_rgbout.nxt
+top.tb_rgbout.underrun
+@200
+-
+@28
+#{top.tb_rgbout.r[2:0]} top.tb_rgbout.r[2] top.tb_rgbout.r[1] top.tb_rgbout.r[0]
+#{top.tb_rgbout.g[2:0]} top.tb_rgbout.g[2] top.tb_rgbout.g[1] top.tb_rgbout.g[0]
+#{top.tb_rgbout.b[1:0]} top.tb_rgbout.b[1] top.tb_rgbout.b[0]
+top.tb_rgbout.blanking
+top.tb_rgbout.disp_ena
+@201
+-
+@28
+top.tb_rgbout.i_rgbout_0.blank
+[pattern_trace] 1
+[pattern_trace] 0

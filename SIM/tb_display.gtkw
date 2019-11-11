@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Oct 14 07:49:24 2019
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_display.ghw"
+[dumpfile_mtime] "Mon Oct 14 07:29:49 2019"
+[dumpfile_size] 122515186
+[savefile] "D:\Users\thirion2\Documents\Perso\arrow\Project\SIM\tb_display.gtkw"
+[timestart] 1941700000
+[size] 1479 805
+[pos] -102 -23
+*-24.741604 1980000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_display.
+[treeopen] top.tb_display.i_display_0.
+[treeopen] top.tb_display.i_display_0.i_dpram8.
+[treeopen] top.tb_display.i_display_0.i_fifo_control_0.
+[treeopen] top.tb_display.i_display_0.i_rgbout_0.
+[sst_width] 256
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 225
+@28
+top.tb_display.nrst
+top.tb_display.ckpix
+top.tb_display.ckram
+top.tb_display.nrstout
+top.tb_display.hs
+top.tb_display.vs
+top.tb_display.i_display_0.clearpix
+top.tb_display.i_display_0.clearram
+top.tb_display.i_display_0.disp_ena
+top.tb_display.i_display_0.fiforam_empty
+top.tb_display.i_display_0.cdc_empty
+top.tb_display.i_display_0.cdc_full
+top.tb_display.read
+top.tb_display.readdatavalid
+@200
+-
+@28
+top.tb_display.i_display_0.i_cdcfifo8_0.wclk
+top.tb_display.i_display_0.i_cdcfifo8_0.rclk
+top.tb_display.i_display_0.i_cdcfifo8_0.wrstn
+top.tb_display.i_display_0.i_cdcfifo8_0.rrstn
+top.tb_display.i_display_0.i_cdcfifo8_0.read
+top.tb_display.i_display_0.i_cdcfifo8_0.write
+top.tb_display.i_display_0.i_rgbout_0.nxt
+top.tb_display.underrun
+#{top.tb_display.i_display_0.r[2:0]} top.tb_display.i_display_0.r[2] top.tb_display.i_display_0.r[1] top.tb_display.i_display_0.r[0]
+#{top.tb_display.i_display_0.g[2:0]} top.tb_display.i_display_0.g[2] top.tb_display.i_display_0.g[1] top.tb_display.i_display_0.g[0]
+#{top.tb_display.i_display_0.b[1:0]} top.tb_display.i_display_0.b[1] top.tb_display.i_display_0.b[0]
+@22
+#{top.tb_display.i_display_0.cdc_dout[15:0]} top.tb_display.i_display_0.cdc_dout[15] top.tb_display.i_display_0.cdc_dout[14] top.tb_display.i_display_0.cdc_dout[13] top.tb_display.i_display_0.cdc_dout[12] top.tb_display.i_display_0.cdc_dout[11] top.tb_display.i_display_0.cdc_dout[10] top.tb_display.i_display_0.cdc_dout[9] top.tb_display.i_display_0.cdc_dout[8] top.tb_display.i_display_0.cdc_dout[7] top.tb_display.i_display_0.cdc_dout[6] top.tb_display.i_display_0.cdc_dout[5] top.tb_display.i_display_0.cdc_dout[4] top.tb_display.i_display_0.cdc_dout[3] top.tb_display.i_display_0.cdc_dout[2] top.tb_display.i_display_0.cdc_dout[1] top.tb_display.i_display_0.cdc_dout[0]
+@28
+top.tb_display.i_display_0.i_rgbout_0.blanking
+@22
+#{top.tb_display.i_display_0.i_dpram8.q_b[15:0]} top.tb_display.i_display_0.i_dpram8.q_b[15] top.tb_display.i_display_0.i_dpram8.q_b[14] top.tb_display.i_display_0.i_dpram8.q_b[13] top.tb_display.i_display_0.i_dpram8.q_b[12] top.tb_display.i_display_0.i_dpram8.q_b[11] top.tb_display.i_display_0.i_dpram8.q_b[10] top.tb_display.i_display_0.i_dpram8.q_b[9] top.tb_display.i_display_0.i_dpram8.q_b[8] top.tb_display.i_display_0.i_dpram8.q_b[7] top.tb_display.i_display_0.i_dpram8.q_b[6] top.tb_display.i_display_0.i_dpram8.q_b[5] top.tb_display.i_display_0.i_dpram8.q_b[4] top.tb_display.i_display_0.i_dpram8.q_b[3] top.tb_display.i_display_0.i_dpram8.q_b[2] top.tb_display.i_display_0.i_dpram8.q_b[1] top.tb_display.i_display_0.i_dpram8.q_b[0]
+#{top.tb_display.i_display_0.i_dpram8.data_a[15:0]} top.tb_display.i_display_0.i_dpram8.data_a[15] top.tb_display.i_display_0.i_dpram8.data_a[14] top.tb_display.i_display_0.i_dpram8.data_a[13] top.tb_display.i_display_0.i_dpram8.data_a[12] top.tb_display.i_display_0.i_dpram8.data_a[11] top.tb_display.i_display_0.i_dpram8.data_a[10] top.tb_display.i_display_0.i_dpram8.data_a[9] top.tb_display.i_display_0.i_dpram8.data_a[8] top.tb_display.i_display_0.i_dpram8.data_a[7] top.tb_display.i_display_0.i_dpram8.data_a[6] top.tb_display.i_display_0.i_dpram8.data_a[5] top.tb_display.i_display_0.i_dpram8.data_a[4] top.tb_display.i_display_0.i_dpram8.data_a[3] top.tb_display.i_display_0.i_dpram8.data_a[2] top.tb_display.i_display_0.i_dpram8.data_a[1] top.tb_display.i_display_0.i_dpram8.data_a[0]
+#{top.tb_display.i_display_0.readdata[15:0]} top.tb_display.i_display_0.readdata[15] top.tb_display.i_display_0.readdata[14] top.tb_display.i_display_0.readdata[13] top.tb_display.i_display_0.readdata[12] top.tb_display.i_display_0.readdata[11] top.tb_display.i_display_0.readdata[10] top.tb_display.i_display_0.readdata[9] top.tb_display.i_display_0.readdata[8] top.tb_display.i_display_0.readdata[7] top.tb_display.i_display_0.readdata[6] top.tb_display.i_display_0.readdata[5] top.tb_display.i_display_0.readdata[4] top.tb_display.i_display_0.readdata[3] top.tb_display.i_display_0.readdata[2] top.tb_display.i_display_0.readdata[1] top.tb_display.i_display_0.readdata[0]
+[pattern_trace] 1
+[pattern_trace] 0
